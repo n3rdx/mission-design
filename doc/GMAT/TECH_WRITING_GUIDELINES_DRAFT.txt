@@ -1,0 +1,14 @@
+Title: Technical Writing Guidelines Draft for ORI GitHub Mission-Design repo
+
+Author: Samudra N3RDX
+Date: 6/28/2021
+
+THIS IS A DRAFT DOCUMENT - FOR DISCUSSION
+
+This document is a test, and only a test. It may not survive.
+
+I wanted to test if I can put in some relevant comments to define the technical writing standards for the mission documentation.
+
+And that starts off with a question:
+
+Do we put the standards in a TEXT file (this) or a some sort of formatted file (e.g., TeX, MS-Word, PDF) etc?
